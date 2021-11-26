@@ -8,4 +8,4 @@ while (i < 10) {
 
     console.log(numero);
     console.log(sum);
-}
+}-++
